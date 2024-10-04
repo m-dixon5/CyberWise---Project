@@ -12,3 +12,10 @@ nav a {
     height: 300px;
     border-radius: 12px;
 }
+
+#offcanvasNavbar hr {
+    color: whitesmoke;
+    width: 150px;
+    margin: 15px;
+
+}
