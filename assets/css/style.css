@@ -7,4 +7,8 @@
 nav a {
     margin-left: 20px;
 }
-
+.offcanvas {
+    background-color: #3F3E45;
+    height: 300px;
+    border-radius: 12px;
+}
