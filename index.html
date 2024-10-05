@@ -10,7 +10,7 @@
   <link rel="stylesheet" href="assets/css/style.css">
 </head>
 
-<body>
+<body id="bootstrap-override">
   <header>
     <div class="container-fluid p-0 m-0" id="nav">
       <nav class="navbar navbar-expand-sm">
@@ -23,7 +23,7 @@
           aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
+        <div class="offcanvas offcanvas-end mynav" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
           <div class="offcanvas-header">
             <h5 class="offcanvas-title" id="offcanvasNavbarLabel" style="color: whitesmoke;">Menu</h5>
             <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
@@ -55,7 +55,17 @@
   <main>
     <section>
       <div class="container-fluid callout-container">
+        <div class="row">
+        <div class="col-2"></div>
 
+          <div class="col-8">
+            <section class="jumbotron hero-text">
+              <h1 id="main-header">Protect your business online</h1>
+              
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi sapiente a eum rem reiciendis, commodi quis incidunt consequatur deserunt, beatae esse. Animi sapiente a eum rem reiciendis</p>
+            </section>
+          </div>
+        </div>
       </div>
     </section>
   </main>
