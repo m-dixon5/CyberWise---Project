@@ -1,11 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Didact+Gothic&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 
+    
+
 body {
     background-color: #080808;
     font-family: "Roboto", sans-serif;
     font-weight: 350;
     font-style: normal;
     color: #f5f5f5;
+}
+
+.margin-0 {
+    margin: 0px;
 }
 
 /* Navbar */
@@ -86,5 +92,21 @@ nav a {
     overflow: hidden;
     align-self: center;
 }
-    
- 
+
+/* Footer */
+.social  {
+    margin-top: 25px;
+    margin-right: 60px
+}
+
+.newsletter {
+    margin: 25px;
+}
+
+footer i {
+    color: #0083FD;
+}
+
+footer span {
+    font-size: x-large;
+}
