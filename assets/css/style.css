@@ -65,6 +65,12 @@ nav a {
 
 
 /* About */
+.about {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .about-card {
     background-color: #080808;
     border: 2px solid #0083FD;
@@ -75,4 +81,11 @@ nav a {
 
 }
 
+.about-image-box {
+    overflow: hidden;
+    align-self: center;
+    
+   
+}
+    
  
