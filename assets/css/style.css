@@ -25,12 +25,20 @@ h1, h2, h3 {
 
 nav a {
     margin-left: 20px;
+    padding: 3px 5px;
+    border-radius: 5px;
+}
+
+nav a:hover {
+    background-color: #0083FD;
 }
 
 .nav-link {
     font-family: "Didact Gothic", sans-serif;
     font-weight: 400;
 }
+
+
 
 .offcanvas {
     background-color: #3F3E45;
@@ -49,7 +57,7 @@ nav a {
 }
 
 .main-textbox {
-    background-color: #00A2FF30;
+    background-color: #0083FD;
     border-radius: 20px;
 }
 
@@ -59,13 +67,7 @@ nav a {
     margin-top: 40px;
 }
 
-.divider-line {
-    width: 300px;
-    height: 5px;
-    border: 0;
-    background-color: #00A2FF;
-    
-}
+
 
 #main-header {
     margin-bottom: 40px;
