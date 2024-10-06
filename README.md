@@ -18,3 +18,42 @@ CyberWise is a website designed to inform users on the fundamentals of cybersecu
 - As a user, I want access to social media accounts to follow for additional info.
 
 - As a user, I want the option to sign up for a newsletter regarding updates and news on the topic.
+
+## Design
+
+### Wireframes
+<details open>
+<summary>Wireframe - desktop 1</summary>
+
+![desktop 1](docs/assets/Desktop-wireframe-1.PNG)
+</details>
+
+<details>
+<summary>Wireframe - desktop 2</summary>
+
+![desktop 2](docs/assets/Desktop-wireframe-2.PNG)
+</details>
+
+<details>
+<summary>Wireframe - desktop 3</summary>
+
+![desktop 3](docs/assets/Desktop-wireframe-3.PNG)
+</details>
+
+<details>
+<summary>Wireframe - mobile 1</summary>
+
+![mobile 1](docs/assets/Mobile-wireframe-1.PNG)
+</details>
+
+<details>
+<summary>Wireframe - mobile 2</summary>
+
+![mobile 2](docs/assets/Mobile-wireframe-2.PNG)
+</details>
+
+<details>
+<summary>Wireframe - mobile 3</summary>
+
+![mobile 3](docs/assets/Mobile-wireframe-3.PNG)
+</details>
