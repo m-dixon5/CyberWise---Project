@@ -97,6 +97,11 @@ nav a {
     align-self: center;
 }
 
+.about-card h2 {
+    margin: 20px;
+}
+
+
 /* Learn */
 #learn-header {
     display: flex;
