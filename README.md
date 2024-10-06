@@ -76,6 +76,9 @@ CyberWise is a website designed to inform users on the fundamentals of cybersecu
 
 ### Validation
 
+![Screenshot of html validation](docs/assets/html-validation-cyberwise.PNG)
+
+![Screenshot of css validation](docs/assets/css-validation-cyberwise.PNG)
 
 ## Deployment
 
