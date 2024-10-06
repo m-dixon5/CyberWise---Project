@@ -93,6 +93,24 @@ nav a {
     align-self: center;
 }
 
+/* Learn */
+
+#learn h3 {
+    margin-left: 15px;
+    margin-top: 15px;
+    padding: 5px;
+  
+}
+
+.learn-card {
+    margin: 10px;
+    background-color: #161515;
+    color: #f5f5f5;
+    border-radius: 8px;
+}
+
+
+
 /* Footer */
 .social  {
     margin-top: 25px;
