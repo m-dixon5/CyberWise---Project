@@ -66,3 +66,21 @@ CyberWise is a website designed to inform users on the fundamentals of cybersecu
  <br />
 
 ![Screenshot of colour palette](docs/assets/Colour-palette.PNG)
+
+## Features
+
+
+## Testing and validation
+
+### Testing Results
+
+### Validation
+
+
+## Deployment
+
+## Fixes and Bugs
+
+## Credits
+
+## Future Improvements
