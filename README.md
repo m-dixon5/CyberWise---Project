@@ -57,3 +57,12 @@ CyberWise is a website designed to inform users on the fundamentals of cybersecu
 
 ![mobile 3](docs/assets/Mobile-wireframe-3.PNG)
 </details>
+
+### Colour Scheme
+- For the colour scheme I used a limited amount of colours with the majority of the website being a black background and white text. A vibrant blue was used alongside this to highlight certain elements and features such as buttons, menu items and content sections. 
+
+- The page was designed to be simple and to focus on the content hence the colours chosen.
+
+ <br />
+
+![Screenshot of colour palette](docs/assets/Colour-palette.PNG)
