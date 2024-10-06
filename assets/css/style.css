@@ -165,6 +165,10 @@ footer i {
     color: #0083FD;
 }
 
+footer i:hover {
+    color: #f5f5f5;
+}
+
 footer span {
     font-size: x-large;
 }
