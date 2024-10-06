@@ -109,6 +109,17 @@ nav a {
     border-radius: 8px;
 }
 
+.learn-card hr {
+    margin: 5px;
+    border: 2px solid #0083FD;
+    border-radius: 2px;
+    width: 150px;
+}
+
+.learn-card ul {
+    margin-top: 15px;
+}
+
 
 
 /* Footer */
