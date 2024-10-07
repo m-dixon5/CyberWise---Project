@@ -73,6 +73,16 @@ CyberWise is a website designed to inform users on the fundamentals of cybersecu
 ## Testing and validation
 
 ### Testing Results
+A range of devices were used when testing the functionality of the website. This included both real-world devices and the ones provided on developer tools.
+
+The devices included were :
+
+- iPhone 11 pro max (real-world)
+- Google Pixel 7 (real-world)
+- iPad pro 2021 (real-world)
+- Alienware AW2521HF 24.5" monitor (real-world)
+- iPhone 12 (dev-tools)
+- Asus Zenbook Fold (dev-tools)
 
 ### Validation
 HTML validation
