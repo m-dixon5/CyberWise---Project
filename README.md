@@ -68,6 +68,25 @@ CyberWise is a website designed to inform users on the fundamentals of cybersecu
 ![Screenshot of colour palette](docs/assets/Colour-palette.PNG)
 
 ## Features
+- Navbar
+
+![Navbar section](docs/assets/navbar.PNG)  
+
+- Hero section
+
+![Hero section](docs/assets/Hero-section.PNG)
+
+- Learn information cards
+
+![Learn section](docs/assets/Learn-section.PNG)
+
+- Embedded videos
+
+![iframes](docs/assets/more-info-section.PNG)
+
+Social media links in footer
+
+![Footer social links](docs/assets/socials.PNG)
 
 
 ## Testing and validation
