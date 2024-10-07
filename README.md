@@ -94,8 +94,22 @@ CSS validation
 ![Screenshot of css validation](docs/assets/css-validation-cyberwise.PNG)
 
 ## Deployment
+Here are the steps taken to deploy the website :
 
-## Fixes and Bugs
+- Go to github.com/m-dixon5.
+- Select the CyberWise-Project repositry.
+- Open the settings tab located near the top of the screen.
+- Use the menu bar on the left to navigate to the pages section.
+- In the pages section check the source is set to deploy from a branch.
+- Below this in the branch section set the branch to Main and the folder to /root.
+- Once you have completed this click save.
+- After a minute or so the live project link should appear above.
+
+## Bugs
+
+- Issue with the whole html content being smaller than the page, meaning there is a gap between the content and right-hand side of the screen. This only applies to screen sizes smaller than desktop. It does not effect any functionality.
+
+- Footer and newsletter sign-up section are centered differenty to rest of the content when not viewing on full-screen desktop.
 
 ## Credits
 
@@ -140,3 +154,7 @@ CSS validation
 
 
 ## Future Improvements
+
+- Add additional helpline information that can be quickly accessed through a button placed in the hero section of the page.
+
+- Implement the unfinished newsletter sign up so users have the oportunity to gain further knowledge on the topic
