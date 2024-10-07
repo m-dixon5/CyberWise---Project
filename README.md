@@ -115,6 +115,9 @@ HTML validation
 CSS validation
 ![Screenshot of css validation](docs/assets/css-validation-cyberwise.PNG)
 
+Lighthouse score
+![Screenshot of lighthouse score](docs/assets/lighthouse-cyberwise.PNG)
+
 ## Deployment
 Here are the steps taken to deploy the website :
 
