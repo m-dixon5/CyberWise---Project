@@ -99,4 +99,44 @@ CSS validation
 
 ## Credits
 
+### Content
+- https://forum.freecodecamp.org/t/youtube-refused-to-connect/245262 (issue with iframes)
+
+- https://kb.blackbaud.com/knowledgebase/Article/95458 (iframe full screen issue)
+
+- https://www.cisa.gov/secure-our-world/use-strong-passwords (content)
+
+- https://www.bu.edu/tech/support/information-security/why-use-2fa/#:~:text=2FA%20is%20essential%20to%20web,a%20password%20alone%20is%20useless. (content)
+
+- https://www.ncsc.gov.uk/guidance/phishing (content)
+
+- https://www.lepide.com/blog/10-ways-to-prevent-phishing-attacks/ (content)
+
+- https://www.kaspersky.com/resource-center/preemptive-safety/how-to-set-up-a-secure-home-network (content)
+
+- https://www.nicybersecuritycentre.gov.uk/social-media-how-secure-your-accounts (content)
+
+- https://www.infosec.ox.ac.uk/protect-my-privacy-online (content)
+
+- https://github.com/amylour (README inspo)
+
+- Google AI (content)
+
+### Media
+
+- https://fontawesome.com/ (Icons)
+
+- https://pixabay.com/ (Images)
+
+- https://www.pexels.com/ (Images)
+
+- https://convertio.co/ (File convertion)
+
+### Testing
+- https://validator.w3.org/
+
+- https://jigsaw.w3.org/css-validator/
+
+
+
 ## Future Improvements
