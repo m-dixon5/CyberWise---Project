@@ -1,4 +1,4 @@
-# CyberSafe
+# CyberWise
 
 ## Overview
 
